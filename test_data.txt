@@ -1,0 +1,5 @@
+Hello, world!
+user@example.com
+API_KEY=123456
+Call me at 555-123-4567
+This is a public message. 
